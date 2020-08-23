@@ -1,5 +1,5 @@
 {
-  "name": "parse-server-sendgrid-adapter",
+  "name": "parse-server-sendgrid-adapter-maroon-bells",
   "version": "1.0.0",
   "description": "Simple sendgrid adapter for parse server",
   "main": "lib/index.js",
